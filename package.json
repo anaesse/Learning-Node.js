@@ -1,0 +1,16 @@
+{
+  "name": "tuts",
+  "version": "1.0.0",
+  "description": "learning node.js at codekago",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "sophie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
